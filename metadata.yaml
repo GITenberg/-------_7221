@@ -1,0 +1,26 @@
+_repo: '-------_7221'
+_version: 0.1.0
+alternative_title: Wen yuan ge Si ku quan shu
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7221'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+tableOfContents: 鄧析子 = Deng Xi Zi / Deng Xi -- 鬼谷子 = Gui Gu Zi / Wang Xu -- 尉繚子 =
+  Wei Liao Zi / Wei Liao -- 人物志 = Ren Wu Zhi / Liu Shao -- 公孫龍子 = Gong Sun Long Zi
+  / Gong Sun Long -- 三略 = San Lue / Huang Shi Gong -- 竹齋集 = Zhu Zhai Ji / Wang Mian.
+title: 文淵閣四庫全書
+url: http://www.gutenberg.org/ebooks/7221
