@@ -21,6 +21,8 @@ language: zh
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 tableOfContents: 鄧析子 = Deng Xi Zi / Deng Xi -- 鬼谷子 = Gui Gu Zi / Wang Xu -- 尉繚子 =
   Wei Liao Zi / Wei Liao -- 人物志 = Ren Wu Zhi / Liu Shao -- 公孫龍子 = Gong Sun Long Zi
   / Gong Sun Long -- 三略 = San Lue / Huang Shi Gong -- 竹齋集 = Zhu Zhai Ji / Wang Mian.
